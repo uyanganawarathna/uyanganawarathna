@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://dev.to/dev.uyanganawarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.uyanganawarathna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinod nawarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[vinod nawarathna](https://www.linkedin.com/in/
-vinod-nawarathna
-
-)" height="30" width="40" /></a>
+vinod-nawarathna)" height="30" width="40" /></a>
 <a href="https://codesandbox.com/uyanganawarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="uyanganawarathna" height="30" width="40" /></a>
 <a href="https://fb.com/vinod nawarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinod nawarathna" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/uyanga nawarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="uyanga nawarathna" height="30" width="40" /></a>
